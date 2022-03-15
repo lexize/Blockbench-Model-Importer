@@ -2,7 +2,9 @@
 Little editor script for importing .bbmodel files.
 
 ## How to install model importer?
-Use a package from [releases](https://github.com/lexize/Blockbench-Model-Importer/releases/)
+Install a package from [releases](https://github.com/lexize/Blockbench-Model-Importer/releases/)
+
+Install `Newtonsoft Json` from Package Manager
 
 ## How to use model importer?
 * Go to **BlockBench Utils** and click **Load .bbmodel asset**.
